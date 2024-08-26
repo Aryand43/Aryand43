@@ -1,16 +1,22 @@
-## Hi there 👋
+# Aryan Dutt
 
-<!--
-**Aryand43/Aryand43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer skilled in Java, Python, and C++**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Aryan, a passionate software developer with a strong foundation in algorithms, data structures, and finance. I am particularly interested in AI and data science, and I enjoy creating innovative solutions to complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- Developing machine learning models for financial analysis
+- Building web applications to enhance user experiences
+
+## 🌱 Learning and Growth
+- Continuously expanding my knowledge in AI and data science
+- Exploring new technologies and frameworks to enhance my skill set
+
+## 💼 Career Aspirations
+- Seeking internship opportunities in top tech and finance companies
+- Aiming to contribute to impactful projects that drive technological advancement
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/aryan-dutt-3b0460252)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
