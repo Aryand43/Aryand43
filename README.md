@@ -20,3 +20,9 @@ Welcome to my GitHub profile! I'm Aryan, a passionate software developer with a 
 - [LinkedIn](https://www.linkedin.com/in/aryan-dutt-3b0460252)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+---
+
+## 📄 Resume
+
+[View My Resume]([https://drive.google.com/file/d/1KmJyoyyi70i71HEnu2f-0eKt4HzHk6X8/view?usp=sharing])
