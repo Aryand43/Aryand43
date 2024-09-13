@@ -24,4 +24,4 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ---
 
 ## 📄 Resume
-[View My Resume](https://drive.google.com/file/d/1KmJyoyyi70i71HEnu2f-0eKt4HzHk6X8/view?usp=sharing)
+[View My Resume][(https://drive.google.com/file/d/1LnV9VRJMMCuMXHTwu3BJHR4-Qlb37KiD/view?usp=sharing)]
