@@ -1,33 +1,29 @@
-# Aryan Dutt  
-**Software Engineer | AI & Quantitative Systems Builder**  
-Skilled in **Java**, **Python**, **C++**, and **Machine Learning**
+# Aryan Dutt
 
-Welcome! I'm Aryan — a developer and researcher passionate about designing high-performance systems at the intersection of **AI**, **finance**, and **data science**. I build solutions that deliver real-world impact, backed by algorithmic rigor and clean engineering.
+**Software Engineer | AI & Quantitative Systems**
 
----
+Skilled in Java, Python, C++, and Machine Learning. I build performance-critical systems at the intersection of AI, finance, and infrastructure.
 
-### 🔭 Current Projects
-- 🔍 **Financial Signal Generators** — ML-driven portfolio optimization & liquidity tracking  
-- 🌐 **AI Web Systems** — Full-stack apps integrating LLMs, Django, and real-time data  
-- 🧠 **Federated Learning Models** — Distributed Whisper fine-tuning and matrix decomposition research with MIT CSAIL
+## Active Work
 
----
+- **Signal Generation Systems** — ML-based portfolio optimization, liquidity tracking
+- **AI Web Infrastructure** — Full-stack LLM apps using Django and real-time data
+- **Federated Learning** — Distributed Whisper fine-tuning, matrix decomposition (MIT CSAIL)
 
-### 🌱 Currently Growing In:
-- Deep reinforcement learning and scalable ML architecture  
-- Advanced optimization in financial modeling (Monte Carlo, CVaR, Sharpe Ratio)  
-- Systems design and backend resilience for production-level AI applications
+## Focus Areas
 
----
+- Deep reinforcement learning and scalable ML systems
+- Quant modeling: Monte Carlo, CVaR, Sharpe Ratio
+- Systems design and backend resilience for production AI
 
-### 💼 Career Goals:
-- Break into **top-tier tech and finance firms** (e.g., Citadel, Optiver, DeepMind)  
-- Launch and scale **AI-powered products** that solve global inefficiencies  
-- Contribute to open-source tools that advance **applied machine learning**
+## Goals
 
----
+- Join leading tech and quant firms (Citadel, Optiver, DeepMind)
+- Launch AI products that solve high-impact inefficiencies
+- Contribute to open-source ML systems
 
-### 📫 Let’s Connect:
-- **LinkedIn**: [linkedin.com/in/aryan-dutt-/](https://www.linkedin.com/in/aryan-dutt-/)  
-- **Portfolio**: [aryand43.github.io/personal-website-](https://aryand43.github.io/personal-website-)  
-- **GitHub**: [github.com/Aryand43](https://github.com/Aryand43)  
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/aryan-dutt-/)
+- [Portfolio](https://aryand43.github.io/personal-website-/)
+- [GitHub](https://github.com/Aryand43)
