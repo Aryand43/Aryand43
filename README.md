@@ -2,7 +2,7 @@
 
 **Software Engineer | AI & Quantitative Systems**
 
-Skilled in Java, Python, C++, and Machine Learning. I build performance-critical systems at the intersection of AI, finance, and infrastructure.
+Skilled in Java, Julia, Python, C++, and Machine Learning. I build performance-critical systems at the intersection of AI, finance, and infrastructure.
 
 ## Active Work
 
