@@ -1,29 +1,24 @@
-# Aryan Dutt
+# Aryan Dutt  
+Software Engineer | AI & Quantitative Systems
 
-**Software Engineer | AI & Quantitative Systems**
-
-Skilled in Java, Julia, Python, C++, and Machine Learning. I build performance-critical systems at the intersection of AI, finance, and infrastructure.
+Skilled in Java, Julia, Python, C++, and Machine Learning. I develop performance-critical systems in AI, finance, and infrastructure.
 
 ## Active Work
-
-- **Signal Generation Systems** — ML-based portfolio optimization, liquidity tracking
-- **AI Web Infrastructure** — Full-stack LLM apps using Django and real-time data
-- **Federated Learning** — Distributed Whisper fine-tuning, matrix decomposition (MIT CSAIL)
+- Signal Generation Systems — ML-based portfolio optimization, liquidity tracking  
+- AI Web Infrastructure — Full-stack LLM apps with Django and real-time data  
+- Federated Learning — Distributed Whisper fine-tuning, matrix decomposition (MIT CSAIL)
 
 ## Focus Areas
-
-- Deep reinforcement learning and scalable ML systems
-- Quant modeling: Monte Carlo, CVaR, Sharpe Ratio
-- Systems design and backend resilience for production AI
+- Deep reinforcement learning and scalable ML systems  
+- Quantitative modeling: Monte Carlo, CVaR, Sharpe Ratio  
+- Backend resilience for production AI
 
 ## Goals
+- Build advanced AI and quantitative systems  
+- Launch AI products addressing systemic inefficiencies  
+- Contribute to open-source ML infrastructure
 
-- Join leading tech and quant firms (Citadel, Optiver, DeepMind)
-- Launch AI products that solve high-impact inefficiencies
-- Contribute to open-source ML systems
+---
 
-## Links
-
-- [LinkedIn](https://www.linkedin.com/in/aryan-dutt-/)
-- [Portfolio](https://aryand43.github.io/personal-website-/)
-- [GitHub](https://github.com/Aryand43)
+**ARYAN020@e.ntu.edu.sg**  
+[LinkedIn](<your-link>) | [Portfolio](<your-link>) | [GitHub](<your-link>)
