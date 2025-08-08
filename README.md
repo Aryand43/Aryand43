@@ -19,6 +19,5 @@ Skilled in Java, Julia, Python, C++, and Machine Learning. I develop performance
 - Contribute to open-source ML infrastructure
 
 ---
-
 **ARYAN020@e.ntu.edu.sg**  
-[LinkedIn](<your-link>) | [Portfolio](<your-link>) | [GitHub](<your-link>)
+[LinkedIn](<https://www.linkedin.com/in/aryan-dutt-/>) | [Portfolio](<https://aryand43.github.io/personal-website-/)>) | [GitHub](https://github.com/Aryand43)
