@@ -1,27 +1,39 @@
 # Aryan Dutt
 
-I am an undergraduate in Computing and Artificial Intelligence at Nanyang Technological University, Singapore. I currently collaborate with the Julia Lab at MIT CSAIL on neural Lyapunov controllers and with the College of Computing and Data Science at NTU on large language model security.
+Undergraduate in Data Science and Artificial Intelligence at Nanyang Technological University, Singapore.  
+Researcher at MIT CSAIL Julia Lab and SenticNet.
 
-My work spans scalable AI systems, quantitative modeling, federated learning, and backend infrastructure. I have held research and software roles across deeptech, quantitative finance, manufacturing, and robotics. These include Whisper fine-tuning for dialect adaptation, portfolio optimization pipelines, anomaly detection systems, and real-time control for additive manufacturing.
+My work focuses on interpretable and reliable AI systems, spanning neuro symbolic learning, stability guaranteed control, and large language model security. I have contributed to research in neural Lyapunov methods, symbol grounded reasoning, adversarial evaluation of aligned LLMs, and AI driven manufacturing diagnostics.
 
-I am also the Director of Technology at IEEE NTU, a contributor to open-source ML infrastructure, and a participant in multiple startup and research ecosystems focused on applied AI.
+I have held research and software engineering roles across academia and industry, including applied work in AI systems, backend development, and machine learning driven optimization.
 
-For a complete list of experiences and project repositories, visit my [website](https://aryand43.github.io/personal-website-/).
+## Current Research
+
+- Undergraduate Researcher at MIT CSAIL Julia Lab  
+  Neural Lyapunov methods for nonlinear stability and region of attraction estimation.  
+  Contributions to NeuralLyapunov.jl within the SciML ecosystem.
+
+- Undergraduate Researcher at SenticNet  
+  Neuro symbolic AI research under Prof. Erik Cambria.  
+  Symbol grounded conceptual representations for interpretable affective and concept level reasoning.
+
+- Research Assistant at NTU College of Computing and Data Science  
+  Lead developer of SymbolBurn, a jailbreak framework for aligned neuro symbolic LLMs.  
+  Designed BASIL, a real time verifier for contradiction detection and recovery.  
+  Submitting to ACL 2026.
+
+## Education
+
+- Nanyang Technological University  
+  Bachelor of Computing (Honours), Data Science and Artificial Intelligence  
+  Minor in Mathematics  
+  2025 to 2028
 
 ## Contact
 
-| Platform   | Link |
-|------------|------|
-| Email      | aryan.dutt43@gmail.com |
-| Phone      | +65 9851 5567 |
-| LinkedIn   | [linkedin.com/in/aryan-dutt-](https://linkedin.com/in/aryan-dutt-) |
-| GitHub     | [github.com/Aryand43](https://github.com/Aryand43) |
-| Website    | [aryand43.github.io/personal-website-/](https://aryand43.github.io/personal-website-/) |
-
-## Highlights
-
-- Undergraduate researcher at MIT CSAIL (Julia Lab) working on neural Lyapunov stability and safe control.
-- Research assistant at NTU CCDS focusing on LLM jailbreak detection and adversarial alignment.
-- Built and deployed multiple full-stack systems in AI, finance, robotics, and manufacturing.
-- Director of Technology at IEEE NTU, selected in Year 1 among the top 0.1% of students.
-- Selected for Y Combinator AI Startup School (2025) as one of 2,000 top global participants.
+| Platform | Link |
+|--------|------|
+| Email | aryan.dutt43@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/aryan-dutt- |
+| GitHub | https://github.com/Aryand43 |
+| Website | https://aryand43.github.io/personal-website-/ |
