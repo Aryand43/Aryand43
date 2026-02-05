@@ -36,4 +36,4 @@ I have held research and software engineering roles across academia and industry
 | Email | aryan.dutt43@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/aryan-dutt- |
 | GitHub | https://github.com/Aryand43 |
-| Website | https://aryand43.github.io/personal-website-/ |
+| Website | https://aryan-dutt.vercel.app/ |
