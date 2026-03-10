@@ -1,39 +1,67 @@
 # Aryan Dutt
 
-Undergraduate in Data Science and Artificial Intelligence at Nanyang Technological University, Singapore.  
-Researcher at MIT CSAIL Julia Lab and SenticNet.
+**Data Science & AI @ NTU · Research Intern @ MIT CSAIL Julia Lab & SenticNet · Incoming Software Engineer Intern @ InterSystems** [web:59]
 
-My work focuses on interpretable and reliable AI systems, spanning neuro symbolic learning, stability guaranteed control, and large language model security. I have contributed to research in neural Lyapunov methods, symbol grounded reasoning, adversarial evaluation of aligned LLMs, and AI driven manufacturing diagnostics.
+I work on AI systems at the intersection of neural stability, neurosymbolic reasoning, and large‑scale ML infrastructure, with experience shipping production data systems in finance, robotics, and industrial optimization. [web:59]
 
-I have held research and software engineering roles across academia and industry, including applied work in AI systems, backend development, and machine learning driven optimization.
+---
 
-## Current Research
+## What I’m doing now
 
-- Undergraduate Researcher at MIT CSAIL Julia Lab  
-  Neural Lyapunov methods for nonlinear stability and region of attraction estimation.  
-  Contributions to NeuralLyapunov.jl within the SciML ecosystem.
+- **MIT CSAIL · Julia Lab – Undergraduate Researcher**  
+  Neural Lyapunov methods for nonlinear stability certification and region‑of‑attraction estimation, and extensions to `NeuralLyapunov.jl` within the SciML ecosystem. [web:59]  
 
-- Undergraduate Researcher at SenticNet  
-  Neuro symbolic AI research under Prof. Erik Cambria.  
-  Symbol grounded conceptual representations for interpretable affective and concept level reasoning.
+- **NTU CCDS · SenticNet – Research Intern**  
+  Neurosymbolic architectures for concept‑level inference and affect modeling, plus graph‑structured semantic normalization pipelines under Prof. Erik Cambria. [web:59]  
 
-- Research Assistant at NTU College of Computing and Data Science  
-  Lead developer of SymbolBurn, a jailbreak framework for aligned neuro symbolic LLMs.  
-  Designed BASIL, a real time verifier for contradiction detection and recovery.  
-  Submitting to ACL 2026.
+- **NTU CCDS – Research Intern (SymbolBurn / alignment)**  
+  Support‑preserving alignment framework, PRF‑based hardness reductions, SQ lower bounds, and SymbolBurn benchmarks for jailbreak and harmful‑mass analysis under Prof. Anupam Chattopadhyay. [web:59]  
+
+- **Incoming – InterSystems · Software Engineer Intern (May–Aug 2026)**  
+  Joining the Singapore office to work on data‑intensive, high‑reliability software systems. [web:59]  
+
+---
+
+## Previously
+
+- **NTU (Additive Manufacturing Lab) – Research Intern**  
+  Patent‑pending thermal enhancement pipeline for metal additive manufacturing; real‑time thermal recovery and diagnostics for powder‑bed fusion and DED systems. [web:59]  
+
+- **SEAQR – Software Engineer**  
+  Full‑stack submarine sensor ingestion, geospatial vessel tracking, and digital‑twin data infrastructure for autonomous surface vehicles. [web:59]  
+
+- **Tagit – Software Engineer**  
+  Transaction anomaly‑detection pipelines for digital banking using per‑user models, rolling features, and explainable monitoring dashboards. [web:59]  
+
+- **BioMetallica – Software Engineer**  
+  Bioreactor telemetry, Arduino‑Cloud control integration, and inventory optimization systems for industrial bioprocess monitoring. [web:59]  
+
+- **RevisionDojo (YC F24) – Software Engineer**  
+  High‑throughput scraping and curriculum normalization for A‑Level and GMAT content powering early YC‑stage backend operations. [web:59]  
+
+- **Ministry of Home Affairs, Singapore – National Serviceman (NS)**  
+  2‑year national service prior to NTU. [web:59]  
+
+---
+
+## Skills & interests
+
+- **Languages:** Python, C++, Java [web:59]  
+- **Areas:** AI systems, stability & control, neurosymbolic reasoning, LLM security and alignment, high‑throughput data/ML infrastructure. [web:59]  
+- **Interview‑time hobbies:** C++/quant‑style problem solving, systems design for low‑latency trading and data pipelines. [web:59]  
+
+---
 
 ## Education
 
-- Nanyang Technological University  
-  Bachelor of Computing (Honours), Data Science and Artificial Intelligence  
-  Minor in Mathematics  
-  2025 to 2028
+**Nanyang Technological University, Singapore** – B.Comp (Hons) in Data Science & Artificial Intelligence, Minor in Mathematics (2025–2028). [web:59]  
+**International Baccalaureate Diploma Programme** (2020–2022). [web:59]  
+
+---
 
 ## Contact
 
-| Platform | Link |
-|--------|------|
-| Email | aryan.dutt43@gmail.com |
-| LinkedIn | https://www.linkedin.com/in/aryan-dutt- |
-| GitHub | https://github.com/Aryand43 |
-| Website | https://aryand43.github.io/personal-website-/ |
+- **Email:** [aryan102004@gmail.com](mailto:aryan102004@gmail.com) [web:59]  
+- **LinkedIn:** [https://www.linkedin.com/in/aryan-dutt-](https://www.linkedin.com/in/aryan-dutt-) [web:59]  
+- **GitHub:** [https://github.com/Aryand43](https://github.com/Aryand43) [web:59]  
+- **Website:** [https://aryan-dutt.vercel.app/](https://aryan-dutt.vercel.app/) [web:59]
