@@ -61,7 +61,16 @@ I work on AI systems at the intersection of neural stability, neurosymbolic reas
 
 ## Contact
 
+<<<<<<< HEAD
 - **Email:** [aryan102004@gmail.com](mailto:aryan102004@gmail.com) [web:59]  
 - **LinkedIn:** [https://www.linkedin.com/in/aryan-dutt-](https://www.linkedin.com/in/aryan-dutt-) [web:59]  
 - **GitHub:** [https://github.com/Aryand43](https://github.com/Aryand43) [web:59]  
 - **Website:** [https://aryan-dutt.vercel.app/](https://aryan-dutt.vercel.app/) [web:59]
+=======
+| Platform | Link |
+|--------|------|
+| Email | aryan.dutt43@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/aryan-dutt- |
+| GitHub | https://github.com/Aryand43 |
+| Website | https://aryan-dutt.vercel.app/ |
+>>>>>>> 99cae858907ed48492fc97eab92ac92da6c2ac43
