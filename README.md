@@ -65,12 +65,16 @@ Neural Lyapunov control · neurosymbolic reasoning · high-throughput ML infra �
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryand43&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
+## Activity
+
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryand43&theme=github-compact&hide_border=true&area=true)](https://github.com/Aryand43)
+
 ---
 
 ## Education
 
 **Nanyang Technological University, Singapore**: B.Comp (Hons) in Data Science & AI, Minor in Mathematics *(2025–2028)*
-International Baccalaureate Diploma *(2020–2022)*
+**International Baccalaureate Diploma**: *(2020–2022)*
 
 ---
 
