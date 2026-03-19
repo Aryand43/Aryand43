@@ -8,16 +8,16 @@ Neural Lyapunov control · neurosymbolic reasoning · high-throughput ML infra �
 
 ## Currently
 
-- **MIT CSAIL | Julia Lab** — Undergraduate Researcher
+- **MIT CSAIL | Julia Lab**: Undergraduate Researcher
   Neural Lyapunov methods for nonlinear stability certification and region-of-attraction estimation; extending [`NeuralLyapunov.jl`](https://github.com/SciML/NeuralLyapunov.jl) within the SciML ecosystem.
 
-- **NTU CCDS | SenticNet** — Research Intern *(Prof. Erik Cambria)*
+- **NTU CCDS | SenticNet**: Research Intern *(Prof. Erik Cambria)*
   Neurosymbolic architectures for concept-level inference and affect modeling; graph-structured semantic normalization pipelines.
 
-- **NTU CCDS | Alignment** — Research Intern *(Prof. Anupam Chattopadhyay)*
+- **NTU CCDS | Alignment**: Research Intern *(Prof. Anupam Chattopadhyay)*
   Support-preserving alignment framework (SymbolBurn); PRF-based hardness reductions, SQ lower bounds, jailbreak and harmful-mass benchmarking.
 
-- **InterSystems** — Incoming Software Engineer Intern *(May–Aug 2026)*
+- **InterSystems**: Incoming Software Engineer Intern *(May–Aug 2026)*
   Data-intensive, high-reliability software systems · Singapore office.
 
 ---
@@ -69,7 +69,7 @@ Neural Lyapunov control · neurosymbolic reasoning · high-throughput ML infra �
 
 ## Education
 
-**Nanyang Technological University, Singapore** — B.Comp (Hons) in Data Science & AI, Minor in Mathematics *(2025–2028)*
+**Nanyang Technological University, Singapore**: B.Comp (Hons) in Data Science & AI, Minor in Mathematics *(2025–2028)*
 International Baccalaureate Diploma *(2020–2022)*
 
 ---
