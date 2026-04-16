@@ -1,63 +1,68 @@
 # Aryan Dutt
 
-**AI Systems & Quant SWE · NTU DSAI | MIT CSAIL Julia Lab | NTU SenticNet | Incoming SWE Intern @ InterSystems**
+Data Science and AI at NTU. Previously research at MIT. Incoming SWE intern at InterSystems.
 
-Neural Lyapunov control · neurosymbolic reasoning · high-throughput ML infra · low-latency systems for finance & robotics.
+Singapore.
 
 ---
 
 ## Now
 
-- **MIT CSAIL : Julia Lab** : Undergraduate Researcher  
-  Neural Lyapunov methods for nonlinear stability certification and ROA estimation; extending [`NeuralLyapunov.jl`](https://github.com/SciML/NeuralLyapunov.jl) in the SciML ecosystem.
+**MIT Julia Lab**: Research Intern
+Neural Lyapunov methods for nonlinear stability certification and region of attraction estimation under Dr. Chris Rackauckas. Extending NeuralLyapunov.jl within the SciML ecosystem.
 
-- **NTU CCDS : SenticNet** : Research Intern (*Erik Cambria*)  
-  Neurosymbolic architectures for concept-level inference and affect modeling; graph-structured semantic normalization.
-
-- **NTU CCDS : Alignment** : Research Intern (*Anupam Chattopadhyay*)  
-  Support-preserving alignment (SymbolBurn); PRF-based hardness reductions, SQ lower bounds, jailbreak / harmful-mass benchmarking.
-
-- **InterSystems** : Incoming SWE Intern (May–Aug 2026, Singapore)  
-  Data-intensive, high-reliability software systems.
+**InterSystems**: Software Engineer Intern
+Incoming May 2026.
 
 ---
 
-## Building
+## Research
 
-- [`neural-roa-penalty`](https://github.com/Aryand43/neural-roa-penalty) : ROA estimation via penalty-based Lyapunov training  
-- [`MicrostructureFoundry`](https://github.com/Aryand43/MicrostructureFoundry) : Quant microstructure modelling and signal research  
-- [`quant-swe-cpp-prep`](https://github.com/Aryand43/quant-swe-cpp-prep) : Low-latency C++ for quant SWE interviews  
+**MIT Julia Lab** (Jul 2025: Mar 2026)
+Lyapunov decrease conditions, Jacobian spectral structure, and optimization dynamics in learned dynamical systems. RoA aware objective design. Convergence verified optimization for provable stability guarantees.
 
----
+**NTU CCDS** (Aug 2025: Feb 2026)
+Robustness limits of aligned large language models under constrained querying and adversarial inputs. Evaluation pipelines across black-box and restricted-access settings. Advised by Prof. Anupam Chattopadhyay.
 
-## Before
-
-| Role | Org | Work |
-|---|---|---|
-| Research Intern | NTU Additive Manufacturing Lab | Patent-pending thermal enhancement pipeline for metal AM; real-time thermal recovery and diagnostics for PBF / DED |
-| Software Engineer | SEAQR | Submarine sensor ingestion, geospatial vessel tracking, digital-twin data infra for autonomous surface vessels |
-| Software Engineer | Tagit | Transaction anomaly detection with per-user rolling models and explainable monitoring dashboards |
-| Software Engineer | BioMetallica | Bioreactor telemetry, Arduino–cloud control, inventory optimisation for industrial bioprocesses |
-| Software Engineer | RevisionDojo (YC F24) | High-throughput scraping and curriculum normalisation for early YC-stage backend ops |
-| National Serviceman | Ministry of Home Affairs, SG | 2-year national service prior to NTU |
+**NTU Additive Manufacturing** (Jan 2025: Jul 2025)
+Patent pending thermal enhancement pipeline for metal additive manufacturing under Prof. Paulo Bartolo. Delta T mapping framework combining CLAHE, guided filtering, and quantized super resolution. Full stack diagnostics for powder bed fusion and directed energy deposition.
 
 ---
 
-## Stack and focus
+## Industry
 
-**Languages and tools:** Python · C++ · Julia · Java · TypeScript · FastAPI · PostgreSQL · Docker  
+**SEAQR**: Software Engineer (Mar 2025: May 2025)
+Submarine sensor ingestion and digital twin pipeline. Real time marine weather data, geospatial vessel tracking, maritime ADS-B visualization. Production data infrastructure for networked USVs.
 
-**Focus:** neural stability and control · neurosymbolic AI · LLM alignment and security · high-throughput data and ML infra · low-latency systems for trading  
+**Tagit**: Software Engineer (Jan 2025: Mar 2025)
+Transaction anomaly detection for digital banking. Per-user Isolation Forest modeling, rolling behavioral features, merchant spend ratios, and temporal risk signals. Production Streamlit monitoring dashboard.
+
+**BioMetallica**: Software Engineer (Oct 2024: Dec 2024)
+Bioreactor telemetry and real-time control via Arduino Cloud. Internal digital board system and integrated management infrastructure for industrial bioprocess monitoring.
+
+**RevisionDojo (YC F24)**: Software Engineer (Aug 2024: Oct 2024)
+Node.js scraping infrastructure for A-Level and GMAT curricula. Taxonomy pipelines for automated curriculum normalization. Structured data powering early-stage backend operations prior to YC backing.
 
 ---
 
 ## Education
 
-**Nanyang Technological University, Singapore** : B.Comp (Hons) in Data Science and AI, Minor in Mathematics (2025–2028)  
-**International Baccalaureate Diploma** (2020–2022)
+**Nanyang Technological University**: B.Comp (Hons), Data Science and AI, Minor in Mathematics (2025: 2028)
+
+**International Baccalaureate Diploma** (2020: 2022)
 
 ---
 
-## Links
+## Building
 
-[Portfolio](https://aryan-dutt.vercel.app) · [LinkedIn](https://linkedin.com/in/aryan-dutt-)
+[neural-roa-penalty](https://github.com/Aryand43/neural-roa-penalty): RoA estimation via penalty-based Lyapunov training
+
+[MicrostructureFoundry](https://github.com/Aryand43/MicrostructureFoundry): Quant microstructure modelling and signal research
+
+[quant-swe-cpp-prep](https://github.com/Aryand43/quant-swe-cpp-prep): Low-latency C++ for quant SWE interviews
+
+---
+
+Python, C++, Julia, Java, TypeScript
+
+aryan102004@gmail.com: [LinkedIn](https://linkedin.com/in/aryan-dutt-)
