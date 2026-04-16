@@ -65,4 +65,4 @@ Node.js scraping infrastructure for A-Level and GMAT curricula. Taxonomy pipelin
 
 Python, C++, Julia, Java, TypeScript
 
-aryan102004@gmail.com: [LinkedIn](https://linkedin.com/in/aryan-dutt-)
+aryan.dutt43@gmail.com: [LinkedIn](https://linkedin.com/in/aryan-dutt-)
