@@ -20,4 +20,4 @@ NTU CCDS (Aug 2025 to Feb 2026): Robustness of aligned LLMs under constrained qu
 
 ## Activity
 
-[![YOY Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Aryand43&theme=github-dark&custom_title=Year-over-Year%20Contributions&hide_border=true)](https://github.com/Aryand43)
+![Profile Stats](https://ghstats.dev/api/card?user=Aryand43&theme=dark&border=false)
