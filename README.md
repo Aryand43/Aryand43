@@ -6,4 +6,4 @@ I was a Software Engineer Intern at InterSystems and a researcher at the MIT Jul
 | Platform | Contact |
 |---|---|
 | Email | aryan020 [at] e [dot] ntu [dot] edu [dot] sg |
-| GitHub | [github.com/Aryand43](https://github.com/Aryand43) |
+| LinkedIn | [Here](https://www.linkedin.com/in/aryan-dutt-/) |
