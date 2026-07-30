@@ -1,17 +1,9 @@
-# Aryan Dutt
+# Hey!
 
-Data Science & AI @ NTU. Previously research at MIT. SWE Intern @ InterSystems.  
-Based in Singapore.
+I'm Aryan Dutt, a student at Nanyang Technological University studying Data Science & AI.  
+I was a Software Engineer Intern at InterSystems and a researcher at the MIT Julia Lab.  
 
----
-
-## Now
-
-InterSystems: Software Engineer Intern (from May 2026)
-
----
-
-## Research
-
-MIT Julia Lab (Jul 2025 to Mar 2026): Stability and RoA in learned dynamical systems  
-NTU CCDS (Aug 2025 to Feb 2026): Robustness of aligned LLMs under constrained querying
+| Platform | Contact |
+|---|---|
+| Email | aryan020 [at] e [dot] ntu [dot] edu [dot] sg |
+| GitHub | [github.com/Aryand43](https://github.com/Aryand43) |
