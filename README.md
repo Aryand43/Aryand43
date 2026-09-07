@@ -8,3 +8,4 @@ I was a Software Engineer Intern at InterSystems and a Research Intern at MIT un
 |---|---|
 | Email | aryan020 [at] e [dot] ntu [dot] edu [dot] sg |
 | LinkedIn | [Here](https://www.linkedin.com/in/aryan-dutt-/) |
+| Personal site | [aryandutt.dev](https://www.aryandutt.dev/) |
