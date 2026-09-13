@@ -1,4 +1,4 @@
-# Hey!
+Hey!
 
 I'm Aryan, a student at Nanyang Technological University studying Data Science & AI.
 
