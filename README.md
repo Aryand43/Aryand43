@@ -1,8 +1,9 @@
-Hey!
+Hey! 
+I'm Aryan, a Data Science & AI student at [Nanyang Technological University](https://www.ntu.edu.sg/).
 
-I'm Aryan, a student at Nanyang Technological University studying Data Science & AI.
+I'm currently a Member of Technical Staff Intern at [Akro](https://akro.ai/), working on AI systems for the Singapore Navy.
 
-I was a Software Engineer Intern at InterSystems and a Research Intern at MIT under the Julia Lab.
+Previously, I was a Software Engineer Intern at [InterSystems](https://www.intersystems.com/) and a Research Intern at MIT under the [Julia Lab](https://julia.mit.edu/).
 
 | Platform | Contact |
 |---|---|
