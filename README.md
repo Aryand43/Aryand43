@@ -1,5 +1,8 @@
-Hey! 
-I'm Aryan, a Data Science & AI student at [Nanyang Technological University](https://www.ntu.edu.sg/).
+<h1 align="center">Hey!</h1>
+
+<p align="center">
+I'm Aryan, a Data Science & AI student at <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>.
+</p>
 
 I'm currently a Member of Technical Staff Intern at [Akro](https://akro.ai/), working on AI systems for the Singapore Navy.
 
