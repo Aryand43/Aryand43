@@ -13,3 +13,18 @@ Previously, I was a Software Engineer Intern at [InterSystems](https://www.inter
 | Email | aryan020 [at] e [dot] ntu [dot] edu [dot] sg |
 | LinkedIn | [Here](https://www.linkedin.com/in/aryan-dutt-/) |
 | Personal site | [aryandutt.dev](https://www.aryandutt.dev/) |
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg"
+  />
+</picture>
