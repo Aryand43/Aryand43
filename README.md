@@ -8,6 +8,8 @@ Previously, I was a Member of Technical Staff (AI Engineer) Intern at [Akro](htt
 
 I was also a Software Engineer Intern at [InterSystems](https://www.intersystems.com/) and a Research Intern at MIT under the [Julia Lab](https://julia.mit.edu/).
 
+For more on my experience, check out my LinkedIn or personal site below.
+
 | Platform | Contact |
 |---|---|
 | Email | aryan020 [at] e [dot] ntu [dot] edu [dot] sg |
