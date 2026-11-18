@@ -4,9 +4,9 @@ I'm Aryan, a Data Science & AI student at [Nanyang Technological University](htt
 
 I'm an incoming Software Engineer Intern at [TikTok](https://www.tiktok.com/), focusing on global distributed payment infrastructure.
 
-Currently, I'm a Member of Technical Staff Intern at [Akro](https://akro.ai/), working on AI systems for the Singapore Navy.
+Previously, I was a Member of Technical Staff (AI Engineer) Intern at [Akro](https://akro.ai/), where I worked on AI systems for the Singapore Navy.
 
-Previously, I was a Software Engineer Intern at [InterSystems](https://www.intersystems.com/) and a Research Intern at MIT under the [Julia Lab](https://julia.mit.edu/).
+I was also a Software Engineer Intern at [InterSystems](https://www.intersystems.com/) and a Research Intern at MIT under the [Julia Lab](https://julia.mit.edu/).
 
 | Platform | Contact |
 |---|---|
@@ -14,17 +14,19 @@ Previously, I was a Software Engineer Intern at [InterSystems](https://www.inter
 | LinkedIn | [Here](https://www.linkedin.com/in/aryan-dutt-/) |
 | Personal site | [aryandutt.dev](https://www.aryandutt.dev/) |
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animated snake moving through a GitHub contribution grid"
+      src="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
