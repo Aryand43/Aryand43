@@ -16,19 +16,9 @@ For more on my experience, check out my LinkedIn or personal site below.
 | LinkedIn | [Here](https://www.linkedin.com/in/aryan-dutt-/) |
 | Personal site | [aryandutt.dev](https://www.aryandutt.dev/) |
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Animated snake moving through a GitHub contribution grid"
-      src="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=13&amp;duration=2200&amp;pause=1400&amp;color=A47E49&amp;center=true&amp;vCenter=true&amp;width=360&amp;height=36&amp;lines=%3E+build+systems;%3E+measure+performance;%3E+iterate"
+    alt="Animated terminal text: build systems, measure performance, iterate"
+  />
+</p>
