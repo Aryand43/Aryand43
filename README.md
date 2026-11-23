@@ -4,7 +4,7 @@ I'm Aryan, a Data Science & AI student at [Nanyang Technological University](htt
 
 I'm an incoming Software Engineer Intern at [TikTok](https://www.tiktok.com/), focusing on global distributed payment infrastructure.
 
-Previously, I was a Member of Technical Staff (AI Engineer) Intern at [Akro](https://akro.ai/), where I worked on AI systems for the Singapore Navy.
+Previously, I was a Member of Technical Staff (AI Engineer) Intern at [Akro](https://akro.ai/), where I built the AIS feature pipeline behind a production risk model for real-time maritime awareness.
 
 I was also a Software Engineer Intern at [InterSystems](https://www.intersystems.com/) and a Research Intern at MIT under the [Julia Lab](https://julia.mit.edu/).
 
